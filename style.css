@@ -1,0 +1,41 @@
+body
+{
+    font-family: 'Montserrat', sans-serif;
+    background: rgb(214, 214, 214);
+}
+
+.header_div
+{
+    background: rgba(219, 213, 213, 0.966);
+    color: rgb(75, 218, 32);
+}
+
+ .header_div p
+ {
+     font-family: 'Montserrat', sans-serif;
+     color: rgb(78, 14, 253);
+     letter-spacing: 2px;
+     font-size: 12px;
+     font-weight: bold;
+ }
+
+ .main-div button{
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: rgb(255, 0, 0);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 128, 128)
+}
